@@ -1,0 +1,113 @@
+{
+  "metricCards": {
+    "dailySales": {
+      "value": 2000,
+      "label": "Daily Sales",
+      "prefix": "$",
+      "date": "9 February 2024"
+    },
+    "monthlyRevenue": {
+      "value": 55000,
+      "label": "Monthly Revenue",
+      "prefix": "$",
+      "date": "1 Jan - 1 Feb"
+    },
+    "tableOccupancy": {
+      "value": 25,
+      "label": "Table Occupancy",
+      "suffix": "Tables"
+    }
+  },
+  "popularDishes": [
+    {
+      "id": "1",
+      "name": "Chicken Parmesan",
+      "price": 55.00,
+      "image": "https://assets.bonappetit.com/photos/5ea8f0df16738800085ad5d2/1:1/w_2560%2Cc_limit/Chicken-Parmesean-Recipe-Lede.jpg",
+      "status": "In Stock"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Parmesan",
+      "price": 55.00,
+      "image": "https://assets.bonappetit.com/photos/5ea8f0df16738800085ad5d2/1:1/w_2560%2Cc_limit/Chicken-Parmesean-Recipe-Lede.jpg",
+      "status": "In Stock"
+    },
+    {
+      "id": "3",
+      "name": "Chicken Parmesan",
+      "price": 55.00,
+      "image": "https://assets.bonappetit.com/photos/5ea8f0df16738800085ad5d2/1:1/w_2560%2Cc_limit/Chicken-Parmesean-Recipe-Lede.jpg",
+      "status": "Out of Stock"
+    },
+    {
+      "id": "4",
+      "name": "Chicken Parmesan",
+      "price": 55.00,
+      "image": "https://assets.bonappetit.com/photos/5ea8f0df16738800085ad5d2/1:1/w_2560%2Cc_limit/Chicken-Parmesean-Recipe-Lede.jpg",
+      "status": "In Stock"
+    }
+  ],
+  "graphData": [
+    {
+      "month": "JAN",
+      "sales": 2800,
+      "revenue": 3200
+    },
+    {
+      "month": "FEB",
+      "sales": 2200,
+      "revenue": 2600
+    },
+    {
+      "month": "MAR",
+      "sales": 2600,
+      "revenue": 3000
+    },
+    {
+      "month": "APR",
+      "sales": 3200,
+      "revenue": 4000
+    },
+    {
+      "month": "MAY",
+      "sales": 3800,
+      "revenue": 4400
+    },
+    {
+      "month": "JUN",
+      "sales": 3400,
+      "revenue": 3800
+    },
+    {
+      "month": "JUL",
+      "sales": 3600,
+      "revenue": 4000
+    },
+    {
+      "month": "AUG",
+      "sales": 3500,
+      "revenue": 3800
+    },
+    {
+      "month": "SEP",
+      "sales": 3300,
+      "revenue": 3600
+    },
+    {
+      "month": "OCT",
+      "sales": 2400,
+      "revenue": 2800
+    },
+    {
+      "month": "NOV",
+      "sales": 2800,
+      "revenue": 3200
+    },
+    {
+      "month": "DEC",
+      "sales": 3600,
+      "revenue": 4200
+    }
+  ]
+}
